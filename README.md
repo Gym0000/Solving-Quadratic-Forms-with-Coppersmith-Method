@@ -6,9 +6,11 @@ This repository contains the SageMath code used in the experiments of the paper:
 M. A. Aardal, D. F. Aranha, Y. Feng, Y. Gao, Y. Pan (EUROCRYPT 2026)
 
 The implementation focuses on solving 4-variable *integer* polynomial equations arising from quadratic forms
+
 $$
 f(x_1,x_2,x_3,x_4)=\mathbf{x}^T G \mathbf{x} - d = 0
 $$
+
 using a Jochemsz–May-style lattice construction and lattice reduction.
 
 ## Contents
