@@ -1,0 +1,526 @@
+==================================================================================================
+f:  40473403944771042310329985208052973550*x1^2 + 9748251956265421211829331742284787136*x1*x2 + 77454633550189127124614625500468942822*x2^2 + 9748251956265421211829331742284787136*x1*x3 + 48985934264245616245264531878868621177*x2*x3 + 902419591443790462258239566163618070005*x3^2 + 24976524946590553383304748705963317367*x1*x4 - 9748251956265421211829331742284787136*x2*x4 + 214461543037839266660245298330265316992*x3*x4 + 1716006642762988328172501652596769393989*x4^2 - 1393796574908163946345982392040522594123776
+solution:  [9, -59, 2, -26]
+bounds: (64, 64, 64, 64)
+m:  2
+Number of monomials: 70
+Number of polynomials: 70
+Reducing a 70 x 70 lattice with flatter...
+lattice reduction time: 0.71
+Number of polynomials satisfying Howgrave-Graham Lemma: 49
+Number of polynomials in fact is useful: 50
+Trying modulus 131 and I_hg.dimension()=0
+Trying modulus 131 and I_real.dimension()=0
+Trying modulus 131 and I.dimension()=0
+Found 2 solutions [(-9, 59, -2, 26), (9, -59, 2, -26)].
+Solving time for f is : 1.70
+==================================================================================================
+f:  3897547560480989392878390612806074489*x1^2 + 89643593891062756036202984094539713247*x2^2 + 2549863555395826816290179291063255984*x1*x3 + 49087054174737412952161615483258835949*x2*x3 + 774065686297346099914796435657452606484*x3^2 - 2316483448965540237620928129585942081*x1*x4 + 58646861774104016774674123694454887632*x2*x4 + 15299181332374960897741075746379535904*x3*x4 + 17649300171967851438470970389282875615042*x4^2 - 1427247692705959881058285969449495136382746624
+solution:  [11643, -379, -1076, 12]
+bounds: (16384, 16384, 16384, 16384)
+m:  2
+Number of monomials: 70
+Number of polynomials: 70
+Reducing a 70 x 70 lattice with flatter...
+lattice reduction time: 1.19
+Number of polynomials satisfying Howgrave-Graham Lemma: 47
+Number of polynomials in fact is useful: 47
+Trying modulus 32771 and I_hg.dimension()=1
+Trying modulus 32771 and I_real.dimension()=1
+Trying modulus 32771 and I.dimension()=1
+Trying modulus 32771 and I.dimension()=-1
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Coppersmith algebraic independence assumption fails!
+m:  3
+Number of monomials: 210
+Number of polynomials: 210
+Reducing a 210 x 210 lattice with flatter...
+lattice reduction time: 16.27
+Number of polynomials satisfying Howgrave-Graham Lemma: 135
+Number of polynomials in fact is useful: 138
+Trying modulus 32771 and I_hg.dimension()=1
+Trying modulus 32771 and I_real.dimension()=0
+Trying modulus 32771 and I.dimension()=1
+Trying modulus 32771 and I.dimension()=-1
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Trying modulus 32771 and I.dimension()=0
+Found 2 solutions [(11643, -379, -1076, 12), (-11643, 379, 1076, -12)].
+Solving time for f is : 21.44
+==================================================================================================
+f:  120864756928231872170197654963601902031*x1^2 + 40379784023742363682691476922140013988*x1*x2 + 194680861828862664977080049082731556942*x2^2 - 80210377761494289609629402238643748110*x1*x3 + 156088821196201368396536230067211356461*x2*x3 + 410215661800567766037607854071586163516*x3^2 - 49019009704082514622267696968581725297*x1*x4 + 147083019515271147858011236632623029956*x2*x4 + 205107830900283883018803927035793081758*x3*x4 + 615323492700851649056411781107379245274*x4^2 - 1461501637330902918203684832716283019655932542976
+solution:  [99533, -30399, 42217, -4004]
+bounds: (131072, 131072, 131072, 131072)
+m:  2
+Number of monomials: 70
+Number of polynomials: 70
+Reducing a 70 x 70 lattice with flatter...
+lattice reduction time: 0.77
+Number of polynomials satisfying Howgrave-Graham Lemma: 13
+Number of polynomials in fact is useful: 34
+Trying modulus 262147 and I_hg.dimension()=1
+Trying modulus 262147 and I_real.dimension()=0
+Trying modulus 262147 and I.dimension()=1
+Trying modulus 262147 and I.dimension()=1
+Trying modulus 262147 and I.dimension()=1
+Trying modulus 262147 and I.dimension()=1
+Trying modulus 262147 and I.dimension()=1
+Trying modulus 262147 and I.dimension()=1
+Trying modulus 262147 and I.dimension()=1
+Trying modulus 262147 and I.dimension()=1
+Trying modulus 262147 and I.dimension()=0
+Found 2 solutions [(-99533, 30399, -42217, 4004), (99533, -30399, 42217, -4004)].
+Solving time for f is : 1.04
+==================================================================================================
+f:  138247101726295456755875073486750847154*x1^2 + 21460434255412846014100199109945618216*x1*x2 + 212291917471350331602636068408707319455*x2^2 - 7153478085137615338033399703315206072*x1*x3 + 12846160333952246577905930722776062645*x2*x3 + 325428104581287603783196981068692664128*x3^2 + 29955363653541474694836788320420187257*x1*x4 + 14306956170275230676066799406630412144*x2*x4 + 50074346595963307366233797923206442504*x3*x4 + 501050875206347183111794445486198453599*x4^2 - 46768052394588893382517914646921056628989841375232
+solution:  [262357, -418875, -48673, -49152]
+bounds: (524288, 524288, 524288, 524288)
+m:  2
+Number of monomials: 70
+Number of polynomials: 70
+Reducing a 70 x 70 lattice with flatter...
+lattice reduction time: 0.81
+Number of polynomials satisfying Howgrave-Graham Lemma: 13
+Number of polynomials in fact is useful: 23
+Trying modulus 1048583 and I_hg.dimension()=1
+Trying modulus 1048583 and I_real.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=-1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Trying modulus 1048583 and I.dimension()=0
+Coppersmith algebraic independence assumption fails!
+m:  3
+Number of monomials: 210
+Number of polynomials: 210
+Reducing a 210 x 210 lattice with flatter...
+lattice reduction time: 19.25
+Number of polynomials satisfying Howgrave-Graham Lemma: 68
+Number of polynomials in fact is useful: 137
+Trying modulus 1048583 and I_hg.dimension()=1
+Trying modulus 1048583 and I_real.dimension()=0
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=1
+Trying modulus 1048583 and I.dimension()=0
+Found 2 solutions [(-262357, 418875, 48673, 49152), (262357, -418875, -48673, -49152)].
+Solving time for f is : 24.27
+==================================================================================================
+f:  1476039848139568345957398233132065551070118393558818672086906013422308893138*x1^2 + 467183475178706746354846443735702396922025500428240632379497048864323244128*x1*x2 + 1788278465337625016639908319382448772211377472962964127041821744241368380148*x2^2 + 1476039848139568345957398233132065551070118393558818672086906013422308893138*x1*x3 + 470371281524582696419211290048484569718965391011442671123108113243249718139*x2*x3 + 4428119544418705037872194699396196653210355180676456016260718040266926679414*x3^2 + 1005668566614985649538186943083580981351153002547376000963797900179059174999*x1*x4 - 1554686727748271643462485097514597573750364722748843810852073219809206758084*x2*x4 + 1669199068081321715624027157724655396582170307052688562058836040060874460814*x3*x4 + 5498659717285475788199468871406120419542179321772875713585637679458057504659*x4^2 - 2187250724783011924372502227117621365353169430893212436425770606409952999199375923223513177023053824
+solution:  [-990745790576, 123088323358, -213144802835, -121167473484]
+bounds: (1099511627776, 1099511627776, 1099511627776, 1099511627776)
+m:  2
+Number of monomials: 70
+Number of polynomials: 70
+Reducing a 70 x 70 lattice with flatter...
+lattice reduction time: 1.07
+Number of polynomials satisfying Howgrave-Graham Lemma: 13
+Number of polynomials in fact is useful: 23
+Trying modulus 2199023255579 and I_hg.dimension()=1
+Trying modulus 2199023255579 and I_real.dimension()=1
+Trying CRT grobner basis.
+index 0: None
+Trying CRT grobner basis.
+index 1: None
+Trying CRT grobner basis.
+index 2: None
+Trying CRT grobner basis.
+index 3: None
+Trying CRT grobner basis.
+index 4: None
+Trying CRT grobner basis.
+index 5: None
+Trying CRT grobner basis.
+index 6: None
+Trying CRT grobner basis.
+index 7: None
+Trying CRT grobner basis.
+index 8: None
+Trying CRT grobner basis.
+index 9: None
+Trying CRT grobner basis.
+index 10: None
+Trying CRT grobner basis.
+index 11: None
+Trying CRT grobner basis.
+index 12: None
+Trying CRT grobner basis.
+index 13: None
+Trying CRT grobner basis.
+index 14: [(-18645638224174040, -30936975209212114, 34079928029258282, 23924198216936104), (-3856763746805890, 32825762355892481, -36151456094548287, 3753810993480031), (3856763746805890, -32825762355892481, 36151456094548287, -3753810993480031), (18645638224174040, 30936975209212114, -34079928029258282, -23924198216936104)]
+Trying CRT grobner basis.
+index 15: [(-16823697521093652, 13949010193076563, 19595119364067410, 4895199139105254), (-6365534179704106, 35453494267345818, -35167529432506348, -8517277622514117), (6365534179704106, -35453494267345818, 35167529432506348, 8517277622514117), (16823697521093652, -13949010193076563, -19595119364067410, -4895199139105254)]
+Trying CRT grobner basis.
+index 16: None
+Trying CRT grobner basis.
+index 17: [(-6833746839641631, -12513641900420999, 35245149797916641, 19178299335450905), (-24975546898339820, 5071003720124232, -7401074803988694, -12408768486796259), (24975546898339820, -5071003720124232, 7401074803988694, 12408768486796259), (6833746839641631, 12513641900420999, -35245149797916641, -19178299335450905)]
+Trying CRT grobner basis.
+index 18: None
+Trying CRT grobner basis.
+index 19: [(35188274293211364, -6958143403888805, 8871391397660857, 29282476822518503), (33211905072986373, -23959758213339855, 19434998334829275, -31317751196274998), (-33211905072986373, 23959758213339855, -19434998334829275, 31317751196274998), (-35188274293211364, 6958143403888805, -8871391397660857, -29282476822518503)]
+Trying CRT grobner basis.
+index 20: None
+Trying CRT grobner basis.
+index 21: None
+Trying CRT grobner basis.
+index 22: [(20435330806116244, -27675199539878120, 23905897411709690, 8454649144621810), (26166898959996789, -21742818040345183, 5932497653860561, -29172458097038454), (-26166898959996789, 21742818040345183, -5932497653860561, 29172458097038454), (-20435330806116244, 27675199539878120, -23905897411709690, -8454649144621810)]
+Trying CRT grobner basis.
+index 23: None
+Trying CRT grobner basis.
+index 24: None
+Trying CRT grobner basis.
+index 25: None
+Trying CRT grobner basis.
+index 26: None
+Trying CRT grobner basis.
+index 27: None
+Trying CRT grobner basis.
+index 28: None
+Trying CRT grobner basis.
+index 29: [(-25902735310693290, 27026027789811416, 27937942208921897, 6825001649894375), (9121654201193513, 17756319761906389, 28245259201980752, -23772000769196810), (-11195847733390215, 33745456417987714, -23729046597437373, -25445909530687174), (23828541778496588, 24475748390082687, -23421729604378518, 16296167268553394), (4871666310341937, 18046590424366667, -33756234482575774, -15983987223914182), (-32443023396103013, 8776882396461640, -33448917489516919, 25758089575326386), (19578553887645012, 24766019052542965, -13084144070603291, 24084180813836022), (-17736135818799938, 15496311024637938, -12776827077544436, -6512821605255163), (17736135818799938, -15496311024637938, 12776827077544436, 6512821605255163), (-19578553887645012, -24766019052542965, 13084144070603291, -24084180813836022), (32443023396103013, -8776882396461640, 33448917489516919, -25758089575326386), (-4871666310341937, -18046590424366667, 33756234482575774, 15983987223914182), (-23828541778496588, -24475748390082687, 23421729604378518, -16296167268553394), (11195847733390215, -33745456417987714, 23729046597437373, 25445909530687174), (-9121654201193513, -17756319761906389, -28245259201980752, 23772000769196810), (25902735310693290, -27026027789811416, -27937942208921897, -6825001649894375)]
+Trying CRT grobner basis.
+index 30: None
+Trying CRT grobner basis.
+index 31: None
+Trying CRT grobner basis.
+index 32: None
+Trying CRT grobner basis.
+index 33: None
+Trying CRT grobner basis.
+index 34: None
+Trying CRT grobner basis.
+index 35: None
+Trying CRT grobner basis.
+index 36: None
+Trying CRT grobner basis.
+index 37: None
+Trying CRT grobner basis.
+index 38: None
+Trying CRT grobner basis.
+index 39: None
+Trying CRT grobner basis.
+index 40: None
+Trying CRT grobner basis.
+index 41: None
+Trying CRT grobner basis.
+index 42: None
+Trying CRT grobner basis.
+index 43: None
+Trying CRT grobner basis.
+index 44: None
+Trying CRT grobner basis.
+index 45: None
+Trying CRT grobner basis.
+index 46: None
+Trying CRT grobner basis.
+index 47: None
+Trying CRT grobner basis.
+index 48: None
+Trying CRT grobner basis.
+index 49: None
+Trying CRT grobner basis.
+index 50: None
+Trying CRT grobner basis.
+index 51: None
+Trying CRT grobner basis.
+index 52: None
+Trying CRT grobner basis.
+index 53: None
+Trying CRT grobner basis.
+index 54: [(18347855815356429, 30528441065234512, 13351687193161882, -6557180461512047), (18836258563750307, -31492027159084402, 8776784615098322, 13027017270803792), (-2452817331790179, -33382559529569085, 8133614115479683, -28511853910441941), (-1964414583396301, -23063948535556246, 3558711537416123, -8927656178126102), (9669124132462099, 1069449114300690, 6450301024332940, -6045474952634169), (10157526880855977, 11388060108313529, 1875398446269380, 13538722779681670), (-10157526880855977, -11388060108313529, -1875398446269380, -13538722779681670), (-9669124132462099, -1069449114300690, -6450301024332940, 6045474952634169), (1964414583396301, 23063948535556246, -3558711537416123, 8927656178126102), (2452817331790179, 33382559529569085, -8133614115479683, 28511853910441941), (-18836258563750307, 31492027159084402, -8776784615098322, -13027017270803792), (-18347855815356429, -30528441065234512, -13351687193161882, 6557180461512047)]
+Trying CRT grobner basis.
+index 55: None
+Trying CRT grobner basis.
+index 56: None
+Coppersmith algebraic independence assumption fails!
+m:  3
+Number of monomials: 210
+Number of polynomials: 210
+Reducing a 210 x 210 lattice with flatter...
+lattice reduction time: 22.92
+Number of polynomials satisfying Howgrave-Graham Lemma: 67
+Number of polynomials in fact is useful: 137
+Trying modulus 2199023255579 and I_hg.dimension()=1
+Trying modulus 2199023255579 and I_real.dimension()=0
+Trying CRT grobner basis.
+index 0: None
+Trying CRT grobner basis.
+index 1: None
+Trying CRT grobner basis.
+index 2: None
+Trying CRT grobner basis.
+index 3: None
+Trying CRT grobner basis.
+index 4: None
+Trying CRT grobner basis.
+index 5: None
+Trying CRT grobner basis.
+index 6: None
+Trying CRT grobner basis.
+index 7: None
+Trying CRT grobner basis.
+index 8: None
+Trying CRT grobner basis.
+index 9: None
+Trying CRT grobner basis.
+index 10: None
+Trying CRT grobner basis.
+index 11: None
+Trying CRT grobner basis.
+index 12: None
+Trying CRT grobner basis.
+index 13: None
+Trying CRT grobner basis.
+index 14: None
+Trying CRT grobner basis.
+index 15: None
+Trying CRT grobner basis.
+index 16: None
+Trying CRT grobner basis.
+index 17: None
+Trying CRT grobner basis.
+index 18: None
+Trying CRT grobner basis.
+index 19: None
+Trying CRT grobner basis.
+index 20: None
+Trying CRT grobner basis.
+index 21: None
+Trying CRT grobner basis.
+index 22: None
+Trying CRT grobner basis.
+index 23: None
+Trying CRT grobner basis.
+index 24: None
+Trying CRT grobner basis.
+index 25: None
+Trying CRT grobner basis.
+index 26: None
+Trying CRT grobner basis.
+index 27: None
+Trying CRT grobner basis.
+index 28: None
+Trying CRT grobner basis.
+index 29: None
+Trying CRT grobner basis.
+index 30: None
+Trying CRT grobner basis.
+index 31: None
+Trying CRT grobner basis.
+index 32: None
+Trying CRT grobner basis.
+index 33: None
+Trying CRT grobner basis.
+index 34: None
+Trying CRT grobner basis.
+index 35: None
+Trying CRT grobner basis.
+index 36: None
+Trying CRT grobner basis.
+index 37: None
+Trying CRT grobner basis.
+index 38: None
+Trying CRT grobner basis.
+index 39: None
+Trying CRT grobner basis.
+index 40: None
+Trying CRT grobner basis.
+index 41: None
+Trying CRT grobner basis.
+index 42: None
+Trying CRT grobner basis.
+index 43: None
+Trying CRT grobner basis.
+index 44: None
+Trying CRT grobner basis.
+index 45: None
+Trying CRT grobner basis.
+index 46: None
+Trying CRT grobner basis.
+index 47: None
+Trying CRT grobner basis.
+index 48: None
+Trying CRT grobner basis.
+index 49: None
+Trying CRT grobner basis.
+index 50: None
+Trying CRT grobner basis.
+index 51: None
+Trying CRT grobner basis.
+index 52: None
+Trying CRT grobner basis.
+index 53: None
+Trying CRT grobner basis.
+index 54: None
+Trying CRT grobner basis.
+index 55: None
+Trying CRT grobner basis.
+index 56: None
+Trying CRT grobner basis.
+index 57: None
+Trying CRT grobner basis.
+index 58: None
+Trying CRT grobner basis.
+index 59: None
+Trying CRT grobner basis.
+index 60: None
+Trying CRT grobner basis.
+index 61: None
+Trying CRT grobner basis.
+index 62: None
+Trying CRT grobner basis.
+index 63: None
+Trying CRT grobner basis.
+index 64: None
+Trying CRT grobner basis.
+index 65: None
+Trying CRT grobner basis.
+index 66: None
+Trying CRT grobner basis.
+index 67: None
+Trying CRT grobner basis.
+index 68: [(-6921158631432582, 31512672421845745, 17866846174398903, -8414959700535128), (-990745790576, 123088323358, -213144802835, -121167473484), (990745790576, -123088323358, 213144802835, 121167473484), (6921158631432582, -31512672421845745, -17866846174398903, 8414959700535128)]
+Found 2 solutions [(-990745790576, 123088323358, -213144802835, -121167473484), (990745790576, -123088323358, 213144802835, 121167473484)].
+Solving time for f is : 29.08
